@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T11:15:27.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.6" etag="6uRmZEh3hJsQwREk7m6q" type="github"><diagram id="bO89eRqwZFa0u8IX1nNE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-25T11:32:19.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Odk900PvJR850ow8oEoU" version="20.3.6" type="github">
+  <diagram id="bO89eRqwZFa0u8IX1nNE" name="Halaman-1">
+    <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kDAVOxMXuszI7GqnIsRb-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="kDAVOxMXuszI7GqnIsRb-1" target="kDAVOxMXuszI7GqnIsRb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kDAVOxMXuszI7GqnIsRb-1" value="&lt;b&gt;MULAI&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDAVOxMXuszI7GqnIsRb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="kDAVOxMXuszI7GqnIsRb-5" target="kDAVOxMXuszI7GqnIsRb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kDAVOxMXuszI7GqnIsRb-5" value="Phi = 3.14&lt;br&gt;Radius&lt;br&gt;Luas&lt;br&gt;Keliling" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDAVOxMXuszI7GqnIsRb-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="kDAVOxMXuszI7GqnIsRb-9" target="kDAVOxMXuszI7GqnIsRb-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kDAVOxMXuszI7GqnIsRb-9" value="Input&lt;br&gt;(Radius)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="550" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDAVOxMXuszI7GqnIsRb-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="kDAVOxMXuszI7GqnIsRb-14" target="kDAVOxMXuszI7GqnIsRb-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kDAVOxMXuszI7GqnIsRb-14" value="&lt;div&gt;Luas = Phi * Radius * Radius&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Keliling = Phi * 2 * Radius&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="550" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDAVOxMXuszI7GqnIsRb-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="kDAVOxMXuszI7GqnIsRb-16" target="kDAVOxMXuszI7GqnIsRb-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kDAVOxMXuszI7GqnIsRb-16" value="Output&lt;br&gt;(Luas dan Keliling)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="370" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kDAVOxMXuszI7GqnIsRb-18" value="&lt;b&gt;SELESAI&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
